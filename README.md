@@ -10,8 +10,7 @@
 # pip install rich
 # pip install bs4
 # termux-setup-storage
-# git clone https://github.com/D3VIIL420/convo
+# git clone https://github.com/D3VIIL420/CookiesConvo.git
+# cd CookiesConvo
 # ls
-# cd convo
-# ls
-# python C0NVO.py
+# python COOKI3S.py
